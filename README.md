@@ -3,5 +3,5 @@ An implementation of Context Steering  in C# code within Unity, based off of And
 <br>
 http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter18_Context_Steering_Behavior-Driven_Steering_at_the_Macro_Scale.pdf
 <br>
-My implementation is an improvement upon the regular "Seek" steering behavior as it also inteligently avoids obstacles as it seeks out its prescribed target.
+My implementation is an improvement upon the regular "Seek" steering behavior as it also actively avoids obstacles as it seeks out its prescribed target.
 
